@@ -34,6 +34,7 @@ homepage: true
 
 Inserting some random text here to see if it works
 Edit the html code below to first test some images, then try to get a widget in
+Extra message just to test a new commit...
 
 <div class="row">
     <div class="medium-4 columns t30">
