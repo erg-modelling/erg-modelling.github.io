@@ -9,7 +9,7 @@ header:
   image_fullwidth: AQL_AirPollutionClimateChange_Desk.jpg
 subheadline: "Gregor's test subheadline"
 title: "Gregor's test headline"
-teaser: "Hello Anastasia, look what strong men does with new website maker tool from work from home while his woman cooking the chicken"
+teaser: "test teaser line"
 
 # Use the call for action to show a button on the frontpage
 #
