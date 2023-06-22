@@ -14,7 +14,7 @@ title: 'ERG Modelling'
 slogan: 'testing page for APM team'
 
 # The description is used on homepage and in the footer to quickly describe your website. Use a maximum of 150 characters for SEO-purposes.
-description: 'This is a basic site for the modelling team to showcase our data'
+description: 'This is a basic site in development for the modelling team to showcase our data'
 
 # The credits show up in the includes/_footer.html – It would be nice of you to leave a link to Phlow or Feeling Responsive as a thank you :)
 credits: '<p>Created by Gregor Stewart with <a href="http://jekyllrb.com/" target="_blank">Jekyll</a>, using the <a href="http://phlow.github.io/feeling-responsive/">Feeling Responsive</a> template.</p>'
@@ -42,7 +42,7 @@ urlimg: 'https://erg-modelling.github.io/images/'    #this URL doesn't show anyt
 
 
 # Logo size is 600x80 pixels
-logo: "logo.png"
+logo: ""
 
 # Plugins
 plugins:

@@ -2,21 +2,42 @@
   url: "/"
   side: left
 
-- title: MODELS
-  url: "/models/"
-  side: left
-
-- title: "OUTPUTS"
-  url: "/outputs/"
+- title: CMAQ-URBAN
+  url: "/cmaq-urban-model/"
   side: left
   dropdown:
-  - title: "GB"
-    url: "/outputs/gb/"
-  - title: "London"
-    url: "/outputs/london/"
+  - title: "How we create our model"
+    url: "/cmaq-urban-model/how/"
+    dropdown:
+  - title: "Model performance"
+    url: "/cmaq-urban-model/performance/"
 
-- title: "ABOUT"
+- title: "2019 MAPS"
+  url: "/2019-maps/"
+  side: left
+  dropdown:
+  - title: "Birmingham"
+    url: "/2019-maps/birmingham/"
+    dropdown:
+  - title: "London"
+    url: "/2019-maps/london/"
+    
+- title: "2020 MAPS"
+  url: "/2020-maps/"
+  side: left
+  dropdown:
+  - title: "Birmingham"
+    url: "/2020-maps/birmingham/"
+    dropdown:
+  - title: "London"
+    url: "/2020-maps/london/"
+
+- title: "ABOUT US"
   url: "/about/"
+  side: right
+  
+- title: "PUBLICATIONS"
+  url: "/publications/"
   side: right
 
 - title: "REQUEST DATA"

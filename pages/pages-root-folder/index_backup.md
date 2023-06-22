@@ -6,10 +6,10 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: AQL_AirPollutionClimateChange_Desk.jpg
-subheadline: "Gregor's test subheadline"
-title: "Gregor's test headline"
-teaser: "test teaser line"
+  image_fullwidth: FromHPRU_12_crop.jpg
+subheadline: ""
+title: "ERG Modelling"
+teaser: "CMAQ-Urban Model Outputs"
 
 # Use the call for action to show a button on the frontpage
 #
@@ -32,39 +32,19 @@ permalink: /index.html
 homepage: true
 ---
 
-Inserting some random text here to see if it works
-Edit the html code below to first test some images, then try to get a widget in
-Extra message just to test a new commit...
+<p>
+Welcome to the github page of the ERG Modelling Group at Imperial College London.
+</p>
 
-<div class="row">
-    <div class="medium-4 columns t30">
-    <img src="{{ site.urlimg }}gallery-example-4.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-5.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-6.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
-
-
-<div class="row">
-    <div class="medium-8 columns t30">
-    <iframe src="https://erg-modelling.github.io/widgets/base58_NO2.html" height="600px" width="100%" style="border:none;"></iframe>
-    </div><!-- /.medium-8.columns -->
-
-    <div class="medium-4 columns t30">
-      <img src="{{ site.urlimg }}gallery-example-3.jpg" alt="">
-      <img class="t30" src="{{ site.urlimg }}gallery-example-8.jpg" alt="">
-    </div><!-- /.medium-4.columns -->
-
-</div><!-- /.row -->
+<p>
+Our CMAQ-Urban model allows us to predict air pollutant concentrations at an hourly time resolution and 20m spatial resolution over the whole of Great Britain
+</p>
 
 
 
- [1]: http://foundation.zurb.com/docs/components/grid.html
+<p>
+Below is a sample of our 2019 concentration map for NO<sub>2</sub> over Birmingham, UK.  Use the dropdown menus above to look at some other cities and pollutants.  You can also <a href="https://erg-modelling.github.io/request-data/">request data</a> here.
+</p>
 
+
+<iframe src="https://erg-modelling.github.io/widgets/base58_NO2.html" height="600px" width="100%" style="border:none;"></iframe>
