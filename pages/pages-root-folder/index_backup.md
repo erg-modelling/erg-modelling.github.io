@@ -6,7 +6,7 @@
 #
 layout: page-fullwidth
 header:
-  image_fullwidth: FromHPRU_12_crop.jpg
+  image_fullwidth: FromHPRU_12_Crop.jpg
 subheadline: ""
 title: "ERG Modelling"
 teaser: "CMAQ-Urban Model Outputs"

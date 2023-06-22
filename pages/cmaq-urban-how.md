@@ -1,7 +1,7 @@
 ---
 layout              : page-fullwidth
 header:
-  image_fullwidth: FromHPRU_12_crop.jpg
+  image_fullwidth: FromHPRU_12_Crop.jpg
 permalink           : "/cmaq-urban-model/how/"
 header				: no
 title				: "The CMAQ-Urban Model"
