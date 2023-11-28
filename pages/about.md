@@ -12,6 +12,7 @@ The <a href="https://www.imperial.ac.uk/school-public-health/environmental-resea
 We use computer models to predict the health impacts of people’s exposure to air pollution now and in the future. We also test policies to reduce air pollution health impacts and to comply with air pollution standards.
 </p>
 
+<br>
 <font size="5">  
     <b>Research</b>
 </font>  
@@ -28,6 +29,7 @@ We are also interested in how people are exposed to air pollution during their d
 We have worked closely with London policy makers to implement major changes to the city, from the London Congestion Charging Zone to the recent London Ultra Low Emissions Zone and are currently researching the possible benefits to air pollution of the UK’s Net Zero climate change policies.
 </p>
 
+<br>
 <font size="5">  
     <b>Current Projects</b>
 </font>  
