@@ -32,8 +32,6 @@ We have worked closely with London policy makers to implement major changes to t
     <b>Current Projects</b>
 </font>  
 
-Populate the list with more detail...
-
 <ul>
   <li>APEX</li>
   <li>NIHR</li>
