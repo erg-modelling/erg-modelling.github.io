@@ -48,3 +48,10 @@ Below is a sample of our 2019 concentration map for NO<sub>2</sub> over Birmingh
 
 
 <iframe src="https://erg-modelling.github.io/widgets/base58_NO2.html" height="600px" width="100%" style="border:none;"></iframe>
+
+
+<p>
+Below is another sample from ArcGIS online...
+</p>
+
+<style>.embed-container {position: relative; padding-bottom: 80%; height: 0; max-width: 100%;} .embed-container iframe, .embed-container object, .embed-container iframe{position: absolute; top: 0; left: 0; width: 100%; height: 100%;} small{position: absolute; z-index: 40; bottom: 0; margin-bottom: -15px;}</style><div class="embed-container"><iframe width="500" height="400" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" title="Test1" src="//imperialcollege.maps.arcgis.com/apps/Embed/index.html?webmap=ae18290c5deb46ea954ff26f13dcc27c&extent=-2.6457,52.2131,-0.6173,53.016&zoom=true&previewImage=false&scale=true&legend=true&disable_scroll=true&theme=light"></iframe></div> 
